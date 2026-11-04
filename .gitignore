@@ -1,0 +1,9 @@
+# 系统与编辑器临时文件
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# 不建议入库的超大/临时图片
+*.tmp
